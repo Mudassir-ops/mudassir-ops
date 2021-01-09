@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+                android:background="@android:color/black"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+
+
+
+        <ImageView
+            android:src="@drawable/car"
+            android:layout_width="220dp"
+            android:scaleType="fitXY"
+            android:layout_margin="20dp"
+            android:focusable="true"
+            android:id="@+id/image_card_view"
+            android:layout_height="150dp"/>
+        <TextView
+            android:id="@+id/text_card_view"
+            android:text="My Car"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="170dp"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+
+
+
+
+</RelativeLayout>

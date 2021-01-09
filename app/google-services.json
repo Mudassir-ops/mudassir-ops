@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067456610952",
+    "firebase_url": "https://cscdb-fb944.firebaseio.com",
+    "project_id": "cscdb-fb944",
+    "storage_bucket": "cscdb-fb944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067456610952:android:fcb2cb3e10d03555f6153d",
+        "android_client_info": {
+          "package_name": "com.example.CSC_Mudassir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067456610952-l0o9d2e60efqkdpn5rn9u8gohoqre7u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI8kjq6RLKJDGWR9rrJvqLTGGjhzWmEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067456610952-l0o9d2e60efqkdpn5rn9u8gohoqre7u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
